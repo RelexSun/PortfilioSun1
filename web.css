@@ -49,5 +49,5 @@ section{
   list-style: none;
 }
 .sidenav a:hover{
-  background: linear-gradient(rgba(255, 186, 186, 0.5), rgba(202, 255, 234, 0.8))
+  color: blue;
 }
